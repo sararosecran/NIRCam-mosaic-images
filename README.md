@@ -9,4 +9,4 @@ if/how IMCOM is useful for our purposes.
 
 
 IMCOM TESTS
-Folder contains most updated description of IMCOM tests. 
+Folder contains updated description of IMCOM tests. 
