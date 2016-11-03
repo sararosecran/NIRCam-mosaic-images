@@ -1,0 +1,6 @@
+PSFFILE     PSF_NIRCam_F090W.fits
+GIMFILE     100_simple_sim_cube_F090W_487_01.slp.fits
+ROTANGDEG   0.0000000
+NOISE       1.0000000
+GIMXFILE    x.01_100.fits
+GIMYFILE    y.01_100.fits
