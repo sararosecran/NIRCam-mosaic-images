@@ -11,6 +11,7 @@ IMCOM_TESTS:
 Directory contains updated description of IMCOM tests. 
 
 Simulated_Images_Tests:
-Directory contains tests used on images created by Christopher. 
+Directory contains tests used on images created by Christopher.
+Test_1: Here we take smaller sub-images as IMCOM images.  
 
 
