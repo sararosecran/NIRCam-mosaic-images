@@ -1,8 +1,0 @@
-GAMFILE     PSF_NIRCam_F090W.fits
-OUTFILE     H.example.fits
-KFILE       K.example.fits
-TFILE       T.example.fits
-SFILE       S.example.fits
-UFILE       U.example.fits
-OUTXFILE    x_out_100.fits
-OUTYFILE    y_out_100.fits
